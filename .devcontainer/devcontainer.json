@@ -1,0 +1,12 @@
+{
+  "name": "Minecraft Mod Dev",
+  "image": "://microsoft.com",
+  "features": {
+    "ghcr.io/devcontainers/features/java:1": {
+      "version": "21",
+      "jdkDistro": "tem"
+    },
+    "ghcr.io/devcontainers/features/desktop-lite:1": {}
+  },
+  "forwardPorts": [6080]
+}
