@@ -1,0 +1,13 @@
+{
+  "itemGroup.utillity": "Example Mod Tab",
+  "block.utillity.example_block": "Example Block",
+  "item.utillity.example_item": "Example Item",
+
+  "utillity.configuration.title": "Mahiro's Utill Configs",
+  "utillity.configuration.section.utillity.common.toml": "Mahiro's Utill Configs",
+  "utillity.configuration.section.utillity.common.toml.title": "Mahiro's Utill Configs",
+  "utillity.configuration.items": "Item List",
+  "utillity.configuration.logDirtBlock": "Log Dirt Block",
+  "utillity.configuration.magicNumberIntroduction": "Magic Number Text",
+  "utillity.configuration.magicNumber": "Magic Number"
+}
